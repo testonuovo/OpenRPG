@@ -42,3 +42,7 @@ Vai su GitHub e crea issues tipo:
 - “Implement enemy system”
 - “Improve camera smoothing”
 - “Add health bar HUD”
+
+## 🎥 Gameplay Preview
+
+![OpenRPG Demo](assets/openrpg_demo.gif)
