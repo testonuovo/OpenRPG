@@ -33,3 +33,12 @@ OpenRPG aims to become a lightweight RPG engine where:
 ```bash
 pip install pygame
 python src/main.py# OpenRPG
+
+# 🧾 2) Aggiungi “Good First Issues” (IMPORTANTISSIMO)
+
+Vai su GitHub e crea issues tipo:
+
+- “Add player walking animation”
+- “Implement enemy system”
+- “Improve camera smoothing”
+- “Add health bar HUD”
